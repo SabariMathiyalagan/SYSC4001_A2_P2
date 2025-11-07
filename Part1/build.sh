@@ -7,7 +7,7 @@ else
   rm -f bin/*
 fi
 
-g++ -std=c++17 -O0 -g -o bin/main main.cpp
+g++ -std=c++17 -O0 -g -o bin/main main_101296691_101296257.cpp
 
 
 echo "Run:   ./bin/main"
